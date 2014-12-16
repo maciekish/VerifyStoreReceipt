@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "VerifyStoreReceipt"
-  s.version          = "1.0.0"
+  s.version          = "1.0"
   s.summary          = "This validator parses and validates the payload and the PKCS7 container itself."
   s.description      = <<-DESC
 This validator parses and validates the payload and the PKCS7 container itself.
