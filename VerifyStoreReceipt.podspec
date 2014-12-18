@@ -24,7 +24,7 @@ Any measures to make your app cracker proof.
   s.homepage         = "https://github.com/maciekish/VerifyStoreReceiptiOS"
   s.license          = 'MIT'
   s.author           = { "Maciej Swic (Only Pod)" => "maciej@swic.name" }
-  s.source           = { :git => "https://github.com/maciekish/VerifyStoreReceipt.git", :tag => "1.0" }
+  s.source           = { :git => "https://github.com/maciekish/VerifyStoreReceipt.git", :tag => "1.0.1" }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
